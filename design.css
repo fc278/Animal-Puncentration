@@ -1,0 +1,13 @@
+img {
+  width: 250px;
+}
+
+h1 {
+  font-family: 'Arvo', serif;
+  text-align: center;
+}
+
+body {
+  background-image: url("http://www.smf-lb.com/wp-content/uploads/2013/03/More-Tumblr-Backgrounds-for-guys-light-gray.jpg");
+  background-size: cover;
+}
